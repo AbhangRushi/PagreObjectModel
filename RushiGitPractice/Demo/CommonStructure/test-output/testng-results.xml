@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
+  <reporter-output>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[Start Time: 28 Jul 2021 10:00:52 am]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-07-28T10:00:52 IST" name="Default suite" finished-at="2021-07-28T10:00:52 IST" duration-ms="691">
+    <groups>
+    </groups>
+    <test started-at="2021-07-28T10:00:52 IST" name="Default test" finished-at="2021-07-28T10:00:52 IST" duration-ms="691">
+      <class name="test.java.automation.tcRepository.Login.LoginTC001">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:test.java.automation.tcRepository.Login.LoginTC001@5ddeb7cb]" started-at="2021-07-28T10:00:51 IST" name="beforeSuite" finished-at="2021-07-28T10:00:52 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[Start Time: 28 Jul 2021 10:00:52 am]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.java.automation.tcRepository.Login.LoginTC001@5ddeb7cb]" started-at="2021-07-28T10:00:52 IST" name="beforeTest" finished-at="2021-07-28T10:00:52 IST" duration-ms="337" status="FAIL">
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The driver executable does not exist: D:\PCMSReconfigure\CommonStructure\src\main\resources\64BitChromeDriver\chromedriver.exe]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The driver executable does not exist: D:\PCMSReconfigure\CommonStructure\src\main\resources\64BitChromeDriver\chromedriver.exe
+at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:146)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:141)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:159)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:355)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:157)
+at automation.BaseClasses.BaseTestScript.beforeTest(BaseTestScript.java:98)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
+at org.testng.TestRunner.beforeRun(TestRunner.java:627)
+at org.testng.TestRunner.run(TestRunner.java:589)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="testCaseStartTime()[pri:0, instance:test.java.automation.tcRepository.Login.LoginTC001@5ddeb7cb]" started-at="2021-07-28T10:00:52 IST" name="testCaseStartTime" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1627446652529" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseStartTime -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.java.automation.tcRepository.Login.LoginTC001@5ddeb7cb]" started-at="2021-07-28T10:00:52 IST" name="beforeMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1627446652579" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="scenario01()[pri:1, instance:test.java.automation.tcRepository.Login.LoginTC001@5ddeb7cb]" started-at="2021-07-28T10:00:52 IST" name="scenario01" finished-at="2021-07-28T10:00:52 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The driver executable does not exist: D:\PCMSReconfigure\CommonStructure\src\main\resources\64BitChromeDriver\chromedriver.exe]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The driver executable does not exist: D:\PCMSReconfigure\CommonStructure\src\main\resources\64BitChromeDriver\chromedriver.exe
+at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:146)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:141)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:159)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:355)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:157)
+at automation.BaseClasses.BaseTestScript.beforeTest(BaseTestScript.java:98)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
+at org.testng.TestRunner.beforeRun(TestRunner.java:627)
+at org.testng.TestRunner.run(TestRunner.java:589)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario01 -->
+        <test-method is-config="true" signature="testCaseEndTime()[pri:0, instance:test.java.automation.tcRepository.Login.LoginTC001@5ddeb7cb]" started-at="2021-07-28T10:00:52 IST" name="testCaseEndTime" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1627446652717" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseEndTime -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.java.automation.tcRepository.Login.LoginTC001@5ddeb7cb]" started-at="2021-07-28T10:00:52 IST" name="afterTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1627446652734" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:test.java.automation.tcRepository.Login.LoginTC001@5ddeb7cb]" started-at="2021-07-28T10:00:52 IST" name="afterSuite" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1627446652911" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- test.java.automation.tcRepository.Login.LoginTC001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

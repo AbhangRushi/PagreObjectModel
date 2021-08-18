@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+
+<suite name="Login">
+
+	<test name="LoginTC001">
+		<classes>
+			<class name="test.java.automation.tcRepository.Login.LoginTC001"/>
+		</classes>
+	</test>	
+	<test name="ALJTC001">
+		<classes>
+			<class name="test.alj.ALJTC001"/>
+		</classes>
+	</test>	
+
+	<listeners>
+		<listener class-name="automation.helper.CustomisedListener" />
+	</listeners>
+	
+</suite>

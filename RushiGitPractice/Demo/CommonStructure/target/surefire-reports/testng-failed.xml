@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Login]">
+  <listeners>
+    <listener class-name="automation.helper.CustomisedListener"/>
+  </listeners>
+  <test name="LoginTC001(failed)">
+    <classes>
+      <class name="automation.tcRepository.Login.LoginTC001">
+        <methods>
+          <include name="afterSuite"/>
+          <include name="afterTest"/>
+          <include name="beforeMethod"/>
+          <include name="testCaseEndTime"/>
+          <include name="scenario01"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="testCaseStartTime"/>
+        </methods>
+      </class> <!-- automation.tcRepository.Login.LoginTC001 -->
+    </classes>
+  </test> <!-- LoginTC001(failed) -->
+</suite> <!-- Failed suite [Login] -->

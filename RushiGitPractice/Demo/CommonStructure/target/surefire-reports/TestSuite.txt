@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 28.64 sec <<< FAILURE! - in TestSuite
+scenario01(automation.tcRepository.Login.LoginTC001)  Time elapsed: 11.764 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at automation.tcRepository.Login.LoginTC001.scenario01(LoginTC001.java:34)
+

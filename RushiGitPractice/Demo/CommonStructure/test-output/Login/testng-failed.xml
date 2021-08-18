@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Login]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="automation.helper.CustomisedListener"/>
+  </listeners>
+  <test thread-count="5" name="LoginTC001(failed)">
+    <classes>
+      <class name="test.java.automation.tcRepository.Login.LoginTC001">
+        <methods>
+          <include name="afterSuite"/>
+          <include name="afterTest"/>
+          <include name="beforeMethod"/>
+          <include name="testCaseEndTime"/>
+          <include name="beforeSuite"/>
+          <include name="scenario01"/>
+          <include name="beforeTest"/>
+          <include name="testCaseStartTime"/>
+        </methods>
+      </class> <!-- test.java.automation.tcRepository.Login.LoginTC001 -->
+    </classes>
+  </test> <!-- LoginTC001(failed) -->
+  <test thread-count="5" name="ALJTC001(failed)">
+    <classes>
+      <class name="test.alj.ALJTC001">
+        <methods>
+          <include name="scenario02"/>
+          <include name="scenario05"/>
+          <include name="scenario03"/>
+          <include name="afterSuite"/>
+          <include name="scenario06"/>
+          <include name="scenario09"/>
+          <include name="scenario04"/>
+          <include name="scenario07"/>
+          <include name="beforeMethod"/>
+          <include name="testCaseEndTime"/>
+          <include name="scenario08"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="scenario01"/>
+          <include name="beforeTest"/>
+          <include name="scenario10"/>
+          <include name="testCaseStartTime"/>
+        </methods>
+      </class> <!-- test.alj.ALJTC001 -->
+    </classes>
+  </test> <!-- ALJTC001(failed) -->
+</suite> <!-- Failed suite [Login] -->

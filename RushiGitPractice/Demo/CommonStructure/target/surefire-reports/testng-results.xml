@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[Start Time: 17 Apr 2020 19:29:30 PM]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[TESTCASE START TIME [ BEFORE CLASS ] : 7_29_35_PM]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[BeforeMethod Start TIME [BEFORE METHOD] : 7_29_44_PM]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[<b> <font color='black' size='2'>Automation Case Developed by : Shakuntala Choudhary</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[<b> <font color='black' size='2'>TestCase Name : Login with valid credential</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[<b> <font color='black' size='2'>TestCase Start Time : 7_29_44_PM</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[<b> <font color='black' size='2'>TestcaseID:
+LoginTC001</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[<b> <font color='black' size='2'>Scenario 1 : Check Login functionality</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[1. Invoking the application with URL.]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[<b> <font color='black' size='2'>Expected :Login Page should open</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=========]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[<b> <font color='green' size='2'>PASS :Login Page is Open</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[NOTE : URL is :stagingpcms.chotomojo.com]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[NOTE : Login With :shakuntala.choudhary@devitpl.com]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[Login page is open.]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[twosteplogin Page Open....]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[Enter Token in Twosteplogin Page]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[TESTCASE END TIME [AFTER CLASS] : 7_29_56_PM]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[End Time: 17 Apr 2020 19:29:57]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+    <line>
+      <![CDATA[=================================================================]]>
+    </line>
+    <line>
+      <![CDATA[<br/>]]>
+    </line>
+  </reporter-output>
+  <suite name="Login" duration-ms="26908" started-at="2020-04-17T13:59:30Z" finished-at="2020-04-17T13:59:57Z">
+    <groups>
+    </groups>
+    <test name="LoginTC001" duration-ms="26908" started-at="2020-04-17T13:59:30Z" finished-at="2020-04-17T13:59:57Z">
+      <class name="automation.tcRepository.Login.LoginTC001">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:automation.tcRepository.Login.LoginTC001@7f9a81e8]" name="beforeSuite" is-config="true" duration-ms="33" started-at="2020-04-17T19:29:30Z" finished-at="2020-04-17T19:29:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[Start Time: 17 Apr 2020 19:29:30 PM]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:automation.tcRepository.Login.LoginTC001@7f9a81e8]" name="beforeTest" is-config="true" duration-ms="5064" started-at="2020-04-17T19:29:30Z" finished-at="2020-04-17T19:29:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testCaseStartTime()[pri:0, instance:automation.tcRepository.Login.LoginTC001@7f9a81e8]" name="testCaseStartTime" is-config="true" duration-ms="9102" started-at="2020-04-17T19:29:35Z" finished-at="2020-04-17T19:29:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[TESTCASE START TIME [ BEFORE CLASS ] : 7_29_35_PM]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCaseStartTime -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automation.tcRepository.Login.LoginTC001@7f9a81e8]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-04-17T19:29:44Z" finished-at="2020-04-17T19:29:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[BeforeMethod Start TIME [BEFORE METHOD] : 7_29_44_PM]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="scenario01()[pri:1, instance:automation.tcRepository.Login.LoginTC001@7f9a81e8]" name="scenario01" duration-ms="11752" started-at="2020-04-17T19:29:44Z" finished-at="2020-04-17T19:29:56Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at automation.PageObject.TwoStepLogin.clientId(TwoStepLogin.java:39)
+	at automation.PageObject.TwoStepLogin.enterToken(TwoStepLogin.java:24)
+	at automation.coreClasses.BasePreCondition.doLogin(BasePreCondition.java:49)
+	at automation.coreClasses.BasePreCondition.doLogin(BasePreCondition.java:29)
+	at automation.tcRepository.Login.LoginTC001.scenario01(LoginTC001.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<b> <font color='black' size='2'>Automation Case Developed by : Shakuntala Choudhary</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[<b> <font color='black' size='2'>TestCase Name : Login with valid credential</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[<b> <font color='black' size='2'>TestCase Start Time : 7_29_44_PM</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[<b> <font color='black' size='2'>TestcaseID:
+LoginTC001</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[<b> <font color='black' size='2'>Scenario 1 : Check Login functionality</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[1. Invoking the application with URL.]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[<b> <font color='black' size='2'>Expected :Login Page should open</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=========]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[<b> <font color='green' size='2'>PASS :Login Page is Open</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[NOTE : URL is :stagingpcms.chotomojo.com]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[NOTE : Login With :shakuntala.choudhary@devitpl.com]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[Login page is open.]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[twosteplogin Page Open....]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[Enter Token in Twosteplogin Page]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenario01 -->
+        <test-method status="PASS" signature="testCaseEndTime()[pri:0, instance:automation.tcRepository.Login.LoginTC001@7f9a81e8]" name="testCaseEndTime" is-config="true" duration-ms="1" started-at="2020-04-17T19:29:56Z" finished-at="2020-04-17T19:29:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[TESTCASE END TIME [AFTER CLASS] : 7_29_56_PM]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCaseEndTime -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:automation.tcRepository.Login.LoginTC001@7f9a81e8]" name="afterTest" is-config="true" duration-ms="945" started-at="2020-04-17T19:29:56Z" finished-at="2020-04-17T19:29:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:automation.tcRepository.Login.LoginTC001@7f9a81e8]" name="afterSuite" is-config="true" duration-ms="1" started-at="2020-04-17T19:29:57Z" finished-at="2020-04-17T19:29:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[End Time: 17 Apr 2020 19:29:57]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+            <line>
+              <![CDATA[=================================================================]]>
+            </line>
+            <line>
+              <![CDATA[<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- automation.tcRepository.Login.LoginTC001 -->
+    </test> <!-- LoginTC001 -->
+  </suite> <!-- Login -->
+</testng-results>

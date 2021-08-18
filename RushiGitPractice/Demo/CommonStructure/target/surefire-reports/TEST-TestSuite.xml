@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="28.64" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_191\jre\bin"/>
+    <property name="java.vm.version" value="25.191-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Shakuntala\CommonStructure"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Shakuntala\CommonStructure"/>
+    <property name="java.runtime.version" value="1.8.0_191-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_191\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\SHAKUN~1.CHO\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\Shakuntala\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5186456062805927295.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_191\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_241/bin/server;C:/Program Files/Java/jre1.8.0_241/bin;C:/Program Files/Java/jre1.8.0_241/lib/amd64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Program Files\nodejs\;C:\apache-ant-1.8.2\\bin;C:\WINDOWS\System32\Wbem;D:\apache-maven-3.6.3\bin;C:\Users\shakuntala.choudhary\AppData\Local\Microsoft\WindowsApps;;C:\Users\shakuntala.choudhary\AppData\Local\Programs\Fiddler;C:\Users\shakuntala.choudhary\AppData\Roaming\npm;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;D:\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\shakuntala.choudhary"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="shakuntala.choudhary"/>
+    <property name="java.class.path" value="D:\eclipse\plugins\org.eclipse.m2e.maven.runtime_1.8.3.20180227-2135\jars\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_191\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B package"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_191"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_191\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_191\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Shakuntala\CommonStructure\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="scenario01" classname="automation.tcRepository.Login.LoginTC001" time="11.764">
+    <failure type="java.lang.NullPointerException">java.lang.NullPointerException
+	at automation.tcRepository.Login.LoginTC001.scenario01(LoginTC001.java:34)
+</failure>
+    <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+INFO  - ***** Testcase is LoginTC001  ***** - automation.helper.CustomisedListener.onStart(CustomisedListener.java:107)[2020-04-17 19:29:30,345] 
+INFO  - ====================================== Local Machine DETAILS =================================== - automation.tcRepository.Login.LoginTC001.getStaticData(BaseTestScript.java:244)[2020-04-17 19:29:30,353] 
+INFO  - Url is detected from property file : stagingpcms.chotomojo.com - automation.tcRepository.Login.LoginTC001.getStaticData(BaseTestScript.java:245)[2020-04-17 19:29:30,353] 
+INFO  - Username is detected from property file : shakuntala.choudhary@devitpl.com - automation.tcRepository.Login.LoginTC001.getStaticData(BaseTestScript.java:246)[2020-04-17 19:29:30,353] 
+INFO  - Password is detected from property file : 1234567890 - automation.tcRepository.Login.LoginTC001.getStaticData(BaseTestScript.java:247)[2020-04-17 19:29:30,354] 
+INFO  - Browser is Detected : ChromeDriver - automation.tcRepository.Login.LoginTC001.getStaticData(BaseTestScript.java:248)[2020-04-17 19:29:30,354] 
+INFO  - Current Project : D:/Shakuntala/PCMS/PCMS_Automation/src/resource/64BitChromeDriver/chromedriver.exe/ - automation.tcRepository.Login.LoginTC001.getStaticData(BaseTestScript.java:249)[2020-04-17 19:29:30,354] 
+INFO  - ================================================================= - automation.tcRepository.Login.LoginTC001.getStaticData(BaseTestScript.java:250)[2020-04-17 19:29:30,354] 
+INFO  - ================================================================= - automation.tcRepository.Login.LoginTC001.beforeTest(BaseTestScript.java:107)[2020-04-17 19:29:35,415] 
+INFO  - TESTCASE START TIME [ BEFORE TEST ] : 7_29_35_PM - automation.tcRepository.Login.LoginTC001.beforeTest(BaseTestScript.java:108)[2020-04-17 19:29:35,415] 
+INFO  - ================================================================= - automation.tcRepository.Login.LoginTC001.beforeTest(BaseTestScript.java:109)[2020-04-17 19:29:35,416] 
+INFO  - ###########################  Start Scenario 1   ##################### - automation.tcRepository.Login.LoginTC001.scenarioHeading(BaseTestScript.java:214)[2020-04-17 19:29:44,535] 
+INFO  - ==================== Start Detect Page=========================== - automation.coreClasses.BasePage.detectPage(BasePage.java:26)[2020-04-17 19:29:44,563] 
+INFO  - application Base URL  : stagingpcms.chotomojo.com - automation.coreClasses.BasePage.detectPage(BasePage.java:28)[2020-04-17 19:29:44,563] 
+INFO  - Detect Page Url : https://stagingpcms.chotomojo.com/ - automation.coreClasses.BasePage.detectPage(BasePage.java:29)[2020-04-17 19:29:44,563] 
+INFO  - Login page detected - automation.coreClasses.BasePage.getExtraMappingForBasePageDetect(BasePage.java:71)[2020-04-17 19:29:44,568] 
+INFO  - Time taken For Detect Page ====>16 miliseconds - automation.coreClasses.BasePage.detectPage(BasePage.java:34)[2020-04-17 19:29:44,579] 
+INFO  - ==================== End Detect Page=========================== - automation.coreClasses.BasePage.detectPage(BasePage.java:35)[2020-04-17 19:29:44,579] 
+INFO  - Logout Successfully... - automation.tcRepository.Login.LoginTC001.logout(BasePreCondition.java:109)[2020-04-17 19:29:44,579] 
+INFO  - ==================== Start Detect Page=========================== - automation.PageObject.LoginPage.detectPage(BasePage.java:26)[2020-04-17 19:29:44,590] 
+INFO  - application Base URL  : stagingpcms.chotomojo.com - automation.PageObject.LoginPage.detectPage(BasePage.java:28)[2020-04-17 19:29:44,591] 
+INFO  - Detect Page Url : https://stagingpcms.chotomojo.com/ - automation.PageObject.LoginPage.detectPage(BasePage.java:29)[2020-04-17 19:29:44,591] 
+INFO  - Login page detected - automation.PageObject.LoginPage.getExtraMappingForBasePageDetect(BasePage.java:71)[2020-04-17 19:29:44,591] 
+INFO  - Time taken For Detect Page ====>1 miliseconds - automation.PageObject.LoginPage.detectPage(BasePage.java:34)[2020-04-17 19:29:44,592] 
+INFO  - ==================== End Detect Page=========================== - automation.PageObject.LoginPage.detectPage(BasePage.java:35)[2020-04-17 19:29:44,593] 
+INFO  - ==================== Start Detect Page=========================== - automation.coreClasses.BasePage.detectPage(BasePage.java:26)[2020-04-17 19:29:44,603] 
+INFO  - application Base URL  : stagingpcms.chotomojo.com - automation.coreClasses.BasePage.detectPage(BasePage.java:28)[2020-04-17 19:29:44,604] 
+INFO  - Detect Page Url : https://stagingpcms.chotomojo.com/ - automation.coreClasses.BasePage.detectPage(BasePage.java:29)[2020-04-17 19:29:44,604] 
+INFO  - Login page detected - automation.coreClasses.BasePage.getExtraMappingForBasePageDetect(BasePage.java:71)[2020-04-17 19:29:44,604] 
+INFO  - Time taken For Detect Page ====>1 miliseconds - automation.coreClasses.BasePage.detectPage(BasePage.java:34)[2020-04-17 19:29:44,605] 
+INFO  - ==================== End Detect Page=========================== - automation.coreClasses.BasePage.detectPage(BasePage.java:35)[2020-04-17 19:29:44,606] 
+INFO  - Logout Successfully... - automation.tcRepository.Login.LoginTC001.logout(BasePreCondition.java:109)[2020-04-17 19:29:44,606] 
+INFO  -  =========== In loginAs Method ===========  - automation.PageObject.LoginPage.loginAs(LoginPage.java:25)[2020-04-17 19:29:44,606] 
+INFO  - ==================== Start Detect Page=========================== - automation.PageObject.LoginPage.detectPage(BasePage.java:26)[2020-04-17 19:29:53,377] 
+INFO  - application Base URL  : stagingpcms.chotomojo.com - automation.PageObject.LoginPage.detectPage(BasePage.java:28)[2020-04-17 19:29:53,377] 
+INFO  - Detect Page Url : https://stagingpcms.chotomojo.com/twosteplogin - automation.PageObject.LoginPage.detectPage(BasePage.java:29)[2020-04-17 19:29:53,377] 
+INFO  - Action name:https://stagingpcms.chotomojo.com/twosteplogin , Class name:automation.PageObject.TwoStepLogin - automation.PageObject.LoginPage.findStartWithDetechPage(ActionBaseClassMapping.java:45)[2020-04-17 19:29:53,377] 
+ERROR - SQLException accured in getResult() method: - automation.helper.SQLHelper.getResult(SQLHelper.java:37)[2020-04-17 19:29:56,282] 
+java.sql.SQLException: The server time zone value 'CDT' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:199)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at automation.BaseClasses.DBManager.getConnection(DBManager.java:51)
+	at automation.helper.SQLHelper.getResult(SQLHelper.java:26)
+	at automation.PageObject.TwoStepLogin.clientId(TwoStepLogin.java:39)
+	at automation.PageObject.TwoStepLogin.enterToken(TwoStepLogin.java:24)
+	at automation.coreClasses.BasePreCondition.doLogin(BasePreCondition.java:49)
+	at automation.coreClasses.BasePreCondition.doLogin(BasePreCondition.java:29)
+	at automation.tcRepository.Login.LoginTC001.scenario01(LoginTC001.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'CDT' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132)
+	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2121)
+	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2145)
+	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1310)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:967)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826)
+	... 40 more
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7) on port 35660
+Only local connections are allowed.
+Apr 17, 2020 7:29:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+]]></system-err>
+  </testcase>
+</testsuite>
